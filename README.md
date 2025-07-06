@@ -1,2 +1,1 @@
-# Fast_Food_application
-Designed and developed a responsive fast food website using HTML, CSS, and JavaScript. The site includes an interactive menu, image sliders, and smooth scrolling navigation. Focused on visual appeal, mobile responsiveness, and engaging UI to attract users and showcase food offerings.
+Culinary King is an e-commerce website on some of the most mouth-watering dishes out there (Front-end). This website has a huge collection of delicious items beautifully presented  using carousels and parallax scrolling CSS features flavored with Bootstrap with the contact page containing a google map attached to it the embedded API, thereby providing it with a cent percent professional look. 
